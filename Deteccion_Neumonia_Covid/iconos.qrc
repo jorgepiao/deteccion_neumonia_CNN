@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>iconos/iconoRad.jpg</file>
+        <file>iconos/pulmones15.png</file>
+        <file>iconos/chest3.1.jpg</file>
+        <file>iconos/chest2.1.jpg</file>
+        <file>iconos/usuarios5.png</file>
+        <file>iconos/configuraciones2.png</file>
+        <file>iconos/buscar1.png</file>
+    </qresource>
+</RCC>
+    
