@@ -1,4 +1,4 @@
-## Deteccion de Neumonia
+## Deteccion de Neumonia con Redes Neuronales Convolucionales
 
 Aplicacion de escritorio para detectar la presencia de neumonia y covid en radiografias y tomografias respectivamente usando **redes neuronales convolucionales** atraves de una interfaz grafica.
 
